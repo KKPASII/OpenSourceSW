@@ -2,6 +2,8 @@
 
 ## 2024 가을학기 오픈소스 SW 활용
 
-### git status
+### git
 
 ### python
+
+### ubuntu
