@@ -7,3 +7,5 @@
 ### python
 
 ### ubuntu
+
+### 수정
