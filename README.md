@@ -8,4 +8,4 @@
 
 ### ubuntu
 
-### sample2 브랜치
+### 브랜치 sample2 생성 과제
