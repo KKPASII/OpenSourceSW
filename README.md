@@ -8,4 +8,4 @@
 
 ### ubuntu
 
-### sample1 브랜치
+### sample1 13주차 브랜치 충돌
