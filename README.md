@@ -8,4 +8,4 @@
 
 ### ubuntu
 
-### sample1 브랜치 - 13주차 충돌
+### sample1 & sample2 브랜치 - 13주차 충돌 확인
